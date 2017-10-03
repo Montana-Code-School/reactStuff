@@ -1,0 +1,8 @@
+/* typically, each component will get its own directory within ../src/
+create that directory and move this file and your Barf component into that
+directory (you should probably call the directory 'barf'). */
+
+/* Each component shoudl get it's own css file, and any styling changes to 
+any of the html you return in your render method should be dictated there. 
+add some classes to your html in your barf component and set some styles
+on those classes in this file */

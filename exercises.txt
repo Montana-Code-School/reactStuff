@@ -1,3 +1,0 @@
-make 3 react components to display the webpage into 3 components - i might have to make an image
-pass some data into them
-change the state

@@ -5,3 +5,5 @@ App.js
 ex1.js
 props.js
 ex2.js
+ex3.js
+navbar.js

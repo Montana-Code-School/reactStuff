@@ -1,6 +1,6 @@
-Let's do some review of yesterday. 
+//Let's do some review of yesterday. 
 
-this exercise will be like the table you built.
+//this exercise will be like the table you built.
 [{
 	person: "Tom Cruise"
 	likesTacos: "no"
@@ -10,12 +10,12 @@ this exercise will be like the table you built.
 
 
 
-Construct an unordered list of react elements. 
-Make a parent component and a child component. 
-The parent component will make render an unordered list
-of child components. 
+//Construct an unordered list of react elements. 
+//Make a parent component and a child component. 
+//The parent component will make render an unordered list
+//of child components. 
 
-Use this array 
+//Use this array 
 
 [
   {
@@ -32,12 +32,12 @@ Use this array
   }
 ]
 
-to pass each element in the array to the child components and have them
-render {person}: {likesTacos}
+//to pass each element in the array to the child components and have them
+//render {person}: {likesTacos}
 
-so the html page will show
+//so the html page will show
 
 
-Tom Cruise: no
-Andrew Jackson: never knew what tacos were
-Rand Paul: yes
+//Tom Cruise: no
+//Andrew Jackson: never knew what tacos were
+//Rand Paul: yes

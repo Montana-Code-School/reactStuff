@@ -8,3 +8,5 @@ ex2.js
 ex3.js
 navbar.js
 review.js
+
+run npm install, then npm start

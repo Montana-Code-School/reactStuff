@@ -15,14 +15,14 @@ import App from "./App.js"
 //step 1: build a class, call it w/e you want
 //step 2: make it a subclass of "React.Component"
 //step 3: give it a render() method
-//return that thing above, including the parentheses
+//step4: within the render method, return an div tag. Throw some html inside of there
+//BUT IT STILL WONT WORK
 
 
-
-//but we need to get this puppy working with the html. Below is a way to 
+//we need to get this puppy working with the html. Below is a way to 
 //inject a component into html
 ReactDOM.render(< {Insert Class Here} />, document.getElementById());
-//step 4: insert your class name where it says "insert class here". Find the index.html file
+//step 4: insert your class name where it says "insert class here". Find the index.html file (in ../public)
 //and select an id to attach your react to.
 //the second arg of ReactDOM.render is your familiar document.getElementById(). Use the id you just
 //selected. 

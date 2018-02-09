@@ -23,7 +23,7 @@ import App from "./App.js"
 //inject a component into html
 ReactDOM.render(< {Insert Class Here} />, document.getElementById());
 //step 4: insert your class name where it says "insert class here". Find the index.html file (in ../public)
-//and select an id to attach your react to.
+//and select an html id to attach your react app to.
 //the second arg of ReactDOM.render is your familiar document.getElementById(). Use the id you just
 //selected. 
 //Your app should refresh itself - check it out, in theory you got a working react 

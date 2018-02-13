@@ -6,7 +6,11 @@ import React, { Component } from 'react';
 export default class App extends Component {
 
   constructor(){
-  
+    super();
+    this.state = {
+      sumDumProp:true
+    }
+    this.handleClick = this.handleClick.bind(this);
   }
   
   componentWillMount(){
@@ -33,11 +37,19 @@ export default class App extends Component {
   
   }
   
+  handleClick(){
+    this.setState({
+      sumDumProp: !this.state.sumDumProp
+    }); 
+  }
 
   render(){
     return(
-    
+      <div>
+        <button onClick={this.handleClick}>
+          click me
+        </button>
+      </div>
     )
    });
-
 }

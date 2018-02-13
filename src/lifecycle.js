@@ -1,7 +1,14 @@
 import React, { Component } from 'react';
 
-//make a button and maybe have them click it... ordering
-//order both the state and the render methods. have a button change state..
+//inject this component into your application
+//then, put a console log an integer in each
+//lifecycle method that correctly sequences
+//the timing of each event i.e 1 = first lifecycle method getting called
+// 2 = second lifecycle method getting called and so forth
+//there are TWO distinct lifecyce methods - the initial rendering
+//and an updated state. You'll have to play around with them to figure out which
+//one corresponds to which one. Render() doesn't need to console log an int. you can just
+//console log "render method called"
 
 export default class App extends Component {
 

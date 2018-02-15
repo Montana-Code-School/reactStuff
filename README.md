@@ -6,7 +6,7 @@ ex1.js
 props.js
 ex2.js
 ex3.js
-Button.js
+button.js
 lifeCycle.js
 navbar.js
 review.js

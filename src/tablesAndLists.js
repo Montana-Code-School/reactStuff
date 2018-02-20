@@ -1,4 +1,5 @@
-//this exercise will be like the table you built.
+//You'll be building a couple of components in this exercise.There also might be some syntax errors you'll have to work through.
+
 [{
 	person: "Tom Cruise"
 	likesTacos: "no"

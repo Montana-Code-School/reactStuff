@@ -1,0 +1,2 @@
+create a diagram that maps the hiearchy of your components. This is a good way to understand how the application works. 
+Feel free to use a white board or a napkin or whatever works. 

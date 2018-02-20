@@ -11,7 +11,7 @@
 
 //Construct an unordered list of react elements. 
 //Make a parent component and a child component. 
-//The parent component will make render an unordered list
+//The parent component will render an unordered list
 //of child components. 
 
 //Use this array 
@@ -31,7 +31,7 @@
   }
 ]
 
-//to pass each element in the array to the child components and have them
+//pass each element in the array to the child components and have them
 //render {person}: {likesTacos}
 
 //so the html page will show

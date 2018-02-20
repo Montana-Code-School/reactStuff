@@ -15,4 +15,4 @@ Weather.js
 liftState.js
 
 
-run npm install, then npm start
+run npm install, then npm start, then start the exercises above in order

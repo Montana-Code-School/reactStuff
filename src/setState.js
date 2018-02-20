@@ -6,6 +6,7 @@ import React, { Component } from 'react';
 //look at the console logs when you click on the buttons - they are incorrect. 
 //move the console logs to the proper lifecycle method to correctly reflect the
 //state
+//note: the first time you click it, it will work properly, but keep clicking and you'll see weird behavior
 
 export default class LightSwitch{
 

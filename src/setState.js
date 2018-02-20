@@ -7,6 +7,7 @@ import React, { Component } from 'react';
 //move the console logs to the proper lifecycle method to correctly reflect the
 //state
 //note: the first time you click it, it will work properly, but keep clicking and you'll see weird behavior
+//the react docs might help with this. Particularly, any info about setState()
 
 export default class LightSwitch{
 

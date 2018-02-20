@@ -1,7 +1,8 @@
 
 import React, { Component } from 'react';
 
-//inject this component into your application. 
+//inject this component into your application. There are a couple bugs you need to fix. Use the compiler errors to 
+//tackle them one at a time.
 //look at the console logs when you click on the buttons - they are incorrect. 
 //move the console logs to the proper lifecycle method to correctly reflect the
 //state

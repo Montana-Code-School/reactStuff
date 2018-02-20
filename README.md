@@ -9,6 +9,10 @@ ex3.js
 button.js
 lifeCycle.js
 navbar.js
-review.js
+tablesAndLists.js
+setState.js
+Weather.js
+liftState.js
+
 
 run npm install, then npm start

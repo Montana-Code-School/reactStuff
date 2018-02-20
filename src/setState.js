@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 
 //inject this component into your application. 
-//look at the console logs when you click on the buttons - they are incorrent. 
+//look at the console logs when you click on the buttons - they are incorrect. 
 //move the console logs to the proper lifecycle method to correctly reflect the
 //state
 

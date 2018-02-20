@@ -16,5 +16,5 @@ import React, { Component } from 'react';
 //component - that's right, we can nest components. 
 
 //export it in this file, then import it into your App.js file and put the tag
-//inside the div's somewhere in your render method and viola! 
+//inside the div's, somewhere in your render method and viola! 
 //Look at your hard work in the browser
